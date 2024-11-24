@@ -1,3 +1,3 @@
-hey, welocme toe my git guide
-
-heyoo, im gonna teach some git guide
+This is git
+the message is from dev-adrian
+this is the changed one
