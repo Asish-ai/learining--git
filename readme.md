@@ -1,2 +1,2 @@
-hello git
-this world is cool
+This is git
+the message is from dev-adrian
